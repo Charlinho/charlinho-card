@@ -17,14 +17,13 @@ const options = {
 
 // Text + chalk definitions
 const data = {
-  name: chalk.white('John Papa /'),
-  handle: chalk.cyan('Disney Fan'),
-  work: chalk.white('Web Developer and Full Stack Architect'),
-  twitter: chalk.cyan('https://twitter.com/john_papa'),
-  github: chalk.cyan('https://github.com/johnpapa'),
-  linkedin: chalk.cyan('https://linkedin.com/in/papajohn'),
-  web: chalk.cyan('https://johnpapa.net'),
-  npx: chalk.white('npx @johnpapa/card'),
+  name: chalk.white('Charleston Campos /'),
+  nickName: chalk.white('Charlinho /'),
+  work: chalk.white('Full Stack Developer'),
+  twitter: chalk.cyan('https://twitter.com/charlestoncjc'),
+  github: chalk.cyan('https://github.com/Charlinho'),
+  linkedin: chalk.cyan('https://linkedin.com/in/charleston-campos-57934079'),
+  npx: chalk.white('npx @charlinho/card'),
   labelWork: chalk.white.bold('      Work:'),
   labelTwitter: chalk.white.bold('   Twitter:'),
   labelGitHub: chalk.white.bold('    GitHub:'),
@@ -35,7 +34,7 @@ const data = {
 
 // Actual strings we're going to output
 const newline = '\n';
-const heading = `${data.name} ${data.handle}`;
+const heading = `${data.name} ${data.nickName}`;
 const working = `${data.labelWork}  ${data.work}`;
 const twittering = `${data.labelTwitter}  ${data.twitter}`;
 const githubing = `${data.labelGitHub}  ${data.github}`;

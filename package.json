@@ -1,20 +1,20 @@
 {
-  "name": "@johnpapa/card",
-  "version": "1.0.5",
-  "description": "A personal card for John Papa",
+  "name": "@charlinho/card",
+  "version": "1.0.0",
+  "description": "A personal card for Charleston Campos",
   "main": "index.js",
   "bin": {
-    "johnpapa-card": "./bin/index.js"
+    "charlinho-card": "./bin/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/johnpapa/johnpapa-card.git"
+    "url": "https://github.com/Charlinho/charlinho-card.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "John Papa (http://johnpapa.net)",
+  "author": "Charleston Campos",
   "license": "MIT",
   "dependencies": {
     "boxen": "^2.1.0",
