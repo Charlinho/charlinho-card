@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/Charlinho/charlinho-card/compare/v1.0.3...v1.0.4) (2021-03-04)
+
+
+### Bug Fixes
+
+* **index:** removed web label ([167f2cb](https://github.com/Charlinho/charlinho-card/commit/167f2cbea93dbd7cade078f9a3dd4339d84192ae))
+
 ## [1.0.3](https://github.com/Charlinho/charlinho-card/compare/v1.0.2...v1.0.3) (2021-03-04)
 
 
