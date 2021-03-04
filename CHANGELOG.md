@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/Charlinho/charlinho-card/compare/v1.0.1...v1.0.2) (2021-03-04)
+
+
+### Bug Fixes
+
+* **package.json:** fixed package json ([80bead2](https://github.com/Charlinho/charlinho-card/commit/80bead2f2c840c78d12497c0c928db0b19367799))
+
 ## [1.0.1](https://github.com/Charlinho/charlinho-card/compare/v1.0.0...v1.0.1) (2021-03-04)
 
 
