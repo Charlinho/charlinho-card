@@ -1,3 +1,12 @@
+## [1.0.1](https://github.com/Charlinho/charlinho-card/compare/v1.0.0...v1.0.1) (2021-03-04)
+
+
+### Bug Fixes
+
+* **changelog:** added change log file ([04ee6f8](https://github.com/Charlinho/charlinho-card/commit/04ee6f8b513ef40b096e95925005c3ba99488670))
+* **changelog:** fixed changelog ([b683e9d](https://github.com/Charlinho/charlinho-card/commit/b683e9d1e09ca7d2fdd7ab882e7022ea69da20d2))
+* **package-lock:** updated package-lock ([6946924](https://github.com/Charlinho/charlinho-card/commit/69469242b9219539a68e4cd3255c36d14f058d5f))
+
 # 1.0.1 (2021-03-04)
 
 # 1.0.0 (2021-03-04)
