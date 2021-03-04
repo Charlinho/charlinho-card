@@ -51,7 +51,6 @@ const output = heading
   + newline
   + linkedining
   + newline
-  + webing
   + newline
   + newline
   + carding;
