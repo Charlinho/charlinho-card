@@ -27,7 +27,6 @@ const data = {
   labelTwitter: chalk.white.bold('   Twitter:'),
   labelGitHub: chalk.white.bold('    GitHub:'),
   labelLinkedIn: chalk.white.bold('  LinkedIn:'),
-  labelWeb: chalk.white.bold('       Web:'),
   labelCard: chalk.white.bold('      Card:'),
 };
 
