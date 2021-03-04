@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/Charlinho/charlinho-card/compare/v1.0.2...v1.0.3) (2021-03-04)
+
+
+### Bug Fixes
+
+* **index:** removed nickname and web data ([087b49e](https://github.com/Charlinho/charlinho-card/commit/087b49e471ef23e43d8d92d5de197e625e28626b))
+
 ## [1.0.2](https://github.com/Charlinho/charlinho-card/compare/v1.0.1...v1.0.2) (2021-03-04)
 
 
